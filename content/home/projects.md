@@ -34,8 +34,8 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = "Deep Learning"
+  name = "Causality"
+  tag = "Causality"
 
 [[filter]]
   name = "Other"
