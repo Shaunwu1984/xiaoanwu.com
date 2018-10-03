@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "806647241",
+    "hash" : "588450176",
     "id" : "B8EE3612",
-    "lastKnownWriteTime" : 1538496395,
-    "last_content_update" : 1538496395,
+    "lastKnownWriteTime" : 1538541721,
+    "last_content_update" : 1538541721961,
     "path" : "~/Desktop/xiaoanwu/config.toml",
     "project_path" : "config.toml",
     "properties" : {
+        "cursorPosition" : "67,22",
+        "scrollLine" : "55"
     },
     "relative_order" : 1,
     "source_on_save" : false,
