@@ -13,8 +13,8 @@ weight = 5
     "Causality",
     "Philosophy of Zhuangzi",
     "金庸，木心，Joseph Conrad",
-    "Philosophy of death",
-    "Meaning of life",
+    "Philosophy of Death",
+    "Meaning of Life",
   ]
 
 # List your qualifications (such as academic degrees).
