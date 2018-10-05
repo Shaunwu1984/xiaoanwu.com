@@ -1,5 +1,5 @@
 +++
-title = "Example Page"
+title = "一个重要的软件安装网址"
 
 date = 2018-09-09T00:00:00
 # lastmod = 2018-09-09T00:00:00
@@ -21,11 +21,15 @@ linktitle = "Example Page"
 # caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 +++
 
-In this tutorial, I'll share my top 10 tips for getting started with Academic:
+
 
 ## Tip 1
 
-...
+1. 如果是Mac电脑，安装Latex的[**网址**](http://www.tug.org/mactex/)；
+
+2. 安装Rstudio的[**网址**](https://www.rstudio.com/products/rstudio/download/#download)；
+
+3. 安装Git for Mac的[**网址**](https://git-scm.com/download/mac)；
 
 ## Tip 2
 

@@ -1,0 +1,92 @@
+---
+title: Causation in a physical world (Hartry Field)
+author: ''
+date: '2018-10-04'
+slug: causation-in-a-physical-world
+categories: []
+tags: [Causality]
+header:
+  caption: ''
+  image: ''
+---
+
+Bertrand Russell 对因果概念的评价：“a relic of a bygone age, like the monarchy, only because it is erroneously supposed to do no harm.”
+
+他的论证理由如下：the kind of physical theories that we have come to regard as fundamental leave no place for the notion of causation: not only does the word 'cause' not appear in the advanced sciences, but the laws that these sciences state are incompatible with causation as we normally understand it。这些科学所陈述的定律也和我们通常所理解的因果是不相容的。
+
+具体而言，罗素的两个论证如下：
+
+1. 方向性（directionality），因果关系的时间不对称：原因总是或者通常都在结果之前。
+
+这种时间的不对称并不像它表面所是的那样，只是说了一个简单的事情：原因-结果对的前一个元素约定性的被称为原因。它更重要的意义在于，这种时间的不对称是和在我们的生活实践中有重要作用的其他时间不对称是密切相关的。比如我们总是倾向于用在先的事件来解释在后的事件，而不是相反，而这些解释有决定了我们的行为。假定吸烟是导致肺癌的原因，当我们说年轻的时候戒烟以防老来得肺癌，常识都认为这是对的，但是说老了接受癌症预防是为了年轻的时候不吸烟，这就无法理解了。
+
+
+一种有争议的表达：“基本的物理学定律是时间-对称的。”但是这个论断并不像它听起来那么清楚。
+
+罗素的表达： 在他的时代，基本的物理学定律在两个方向都有决定论的特征。即从宇宙某一个时刻状态的完备说明，在加上自然律，我们可以得出宇宙任何一个时刻的状态，不管是时间上在前的，还是时间上在后的。所以在基本的物理学层面，过去决定未来的方式和未来决定过去的方式是没有区别的。但是这似乎和我们日常的因果概念是有区别的，相较于任何未来决定过去的方式，过去决定未来的方式要更为根本和重要。
+
+对于罗素这个论证的三点看法：
+
+* 不需要宣称物理定律在两个方向都是决定的，只需要说物理定律“实质上在两个方向有相同的特征”就可以了。
+
+* 即使同意说物理学定律在两个方向都是决定的，在原则上依然有论证空间说：它们在前进方向的特征和它们在后退方向的特征不同。
+
+* 即使在根本物理定律的层面上方向无法做出区分，也能通过引入在我们的世界所获得的**初始条件**（the initial conditions），用物理学的术语来实现这种区分。比如路易斯所谓“过度决定的不对称”就是这种策略的一个例子。作者的策略是引入**统计的考量**。我们通常所应用的物理定律中有统计的特征，初始条件有**统计的特征**，但是结果条件（final condition）却没有这个特征。
+
+2. 罗素声称我们的因果思考依赖于这样的假定：存在这样告诉我们的定律，当有穷数目且相当局部的事情在某一个时间成立，某些其他特定的事情必然在短时间之后发生。所声称的这类“定律”根本就是错的。物理学的进步已经用微分方程（differential equations）取代了这类定律。
+
+“No reasonable laws of physics, whether deterministic or indeterministic will make the probability of what happens at a time depend on only finitely many localized antecedent states; one will need an entire cross-section of the light cone to make the determination.”
+
+那么这是否意味着：如果$c_1$和$c_2$两者都在$e$的过去光锥之中，那么就没有理由认为它们两个中的任何一个比另一个更是原因。“the notion of causation would lose its whole point”。
+
+This is not in itself a problem. But it would become a problem if we thought that causes have to be events.
+
+
+## 二. 策略的有效性和因果图
+
+正如Cartwright所指出的那样，放弃因果概念的代价太大：因为因果的概念和有效策略与无效策略之间的区别紧密相关。
+
+**Simpson's Paradox**很好的说明了这个问题：
+
+当开始我们考虑吸烟、不吸烟和得癌症、不得癌症的关系图时，
+
+1. “obviously you're much better off not smoking”.
+
+当我们考虑第三个因素“基因”之后：
+
+
+2. “Obviously if you have Gene X, you're much better off smoking.”
+
+3. “Obviously if you don't have Gene X, you're also much better off smoking.”
+
+基因的信息并没有改变吸烟和癌症之间的高统计相关，但似乎极大的改变了它的意义。因为似乎说明“吸烟并不是癌症的原因，事实上它还能防止癌症的发生。尽管吸烟和癌症之间有很高的统计相关，那是因为有一个共同的基因原因的存在”。
+
+这个例子说明了三点：
+
+1. 相关并不意味着因果。
+
+2. 变元S可以在总体上和C正相关，但是如果条件化第三变元X和$\sim X$，S就会和C负相关。
+
+3. 为了更好地实现我们的目的，我们需要知道的是因果关系，而不是相关关系。
+
+上述例子就是对罗素排斥因果概念的一个有力反驳。
+
+我们如何来调和Cartwright关于在一个有效策略的理论中需要因果的观点和罗素关于因果在物理学中只有有限作用的观点。
+
+## 三. 因果和反事实
+
+我已经强调了因果概念的统计支持，至少对于方向性是这样的。但是这并不必然意味着应用于个体过程的因果解释必须确切地指出相关的统计事实。那么一个单称因果理论应该如何进行？
+
+
+众所周知，反事实是情境-依赖的（context-dependent），比因果论断更加的情境-依赖。在日常的情境中我们会很自然地说如下的温度计反事实：如果温度计读数没有下降，短时间之后将不会有风暴来袭。但是没有人会说温度计读数的下降是风暴来袭的原因。路易斯认识到这样的反事实必须被剔除，如果因果是建筑在反事实之上的话。路易斯说“如果温度计读数没有下降，短时间之后将不会有风暴来袭”，这种反事实只在特定的情境之中才是可接受的，即那种允许“回溯论证”的情境。
+
+如果回溯论证发生在从结果到原因的推理中，就可以合理地说这些反事实包含着回溯论证：一个有科学素养的人被要求捍卫温度计反事实就会这样说，如果温度计读数下降，那么最有可能就会是这个区域的气压降低了，而这将很有可能会导致一场风暴。
+但也可以很合理地说，存在那样一种情境，我们不接受只由回溯论证支持的反事实。路易斯认为后一个情境是“the normal ones”。
+
+是否这两类背景之间的区别不要诉诸因果概念就可以做出呢？因为因果有了非回溯和回溯反事实的区分，然后又通过非回溯反事实来定义因果。如何避免这样一种循环？
+
+通过使用**时间序**来区分回溯与非回溯，但是温度计反事实的时间序似乎是没有问题的，但是我们也可以辩解说，温度计反事实是被那些包含逆时间序的反事实所支撑的。
+
+
+路易斯声称他反事实路径的因果理论一个主要的优势就在于：它解释了因果的方向性，即它解释了为什么原因总是几乎在结果之前，
+
