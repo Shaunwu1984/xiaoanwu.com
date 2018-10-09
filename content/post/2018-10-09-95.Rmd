@@ -1,0 +1,22 @@
+---
+title: 奶奶快95岁了
+author: 吴小安
+date: '2018-10-09'
+slug: '95'
+categories: []
+tags:
+  - family
+header:
+  caption: ''
+  image: ''
+---
+
+
+[latex](/static/pdf/latex notes)
+
+
+![不知不觉奶奶都已经95岁了，我的印象里面她才六十多岁呢。](/post/2018-10-09-95_files/77.jpeg){width=500px}
+
+
+
+![](/post/2018-10-09-95_files/76.jpeg){width=500px}

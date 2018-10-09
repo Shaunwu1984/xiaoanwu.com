@@ -80,85 +80,126 @@ Maudlin给出确定原因的**简单论证**如下：
 
 存在这样一种可能性：两个占据形式只在某一个点不同，但是它们却产生相同的结果。于是它举了一个例子（看文章中的图）：
 
+
+![](/post/2018-10-03-2018-10-1_files/1.png){width=400px}
+
 现在的**问题**是：“the bit of matter in the bottom central location of pattern A”是中心方格在下一刻被占据的原因吗？
 
 两点澄清：
 
-1. the sort of physical world I have described at least could be a world that has laws of the evolution of the distribution of matter.  （我并不明白他这个澄清想表达什么！）
+1. 我所描述的那类物理世界至少是有物质分布的自然律演化的世界。Mill-Ramsey-Lewis account of laws. 
 
-2. 关于物质分布演化的所有反事实真值都是确定的。
+2. 假定我认同这是世界是自然律决定的，我认同关于物质分布演化的所有反事实真值都是确定的。既然规则是决定论的，我们可以使用它们来决定任何物质的分布将如何演进，即使那个分布从来没有实际发生在我们想象的世界。所以在根本的物理学层面上，不存在反事实之争：给定某个时间的完备形式，我们知道如果它以某种确切制定的方式不同，它将如何演进。
+
+我的主要论断是：即使在根本的层面上，没有关于反事实的争论，仍然存在关于因果的争论，这个争论是与之相平行的关于自然律争论的结果。
+
+在这个情形中，没有任何疑问的所有反事实知识似乎没有解决因果结构的问题，更进一步说，没有任何疑问的反事实知识也没有解决在同一个情形中自然律是什么的问题。
 
 对于上述**问题**有两条回应的路径：
 
-1. 直觉诉诸于Hume counterfactual，拒绝在那个位置的物质是原因。
+1. 认为底层中心物质不是原因。
+
+直觉诉诸于Hume counterfactual，拒绝在那个位置的物质是原因。那个位置的物质对于物质的分布将如何演化没有任何影响。
 
     + 直接因果。
     + 直接因果的传递闭包。
-但是在我们所讨论的情形中只有直接因果。所以如果没有反事实依赖就没有因果。
+但是在我们所讨论的情形中只有直接因果，因为时间和空间都是离散的。所以如果没有反事实依赖就没有因果。
 
 2. 认为底层中心物质是原因。
 
-首先指出，一般而言，这个世界的演化规则似乎把完备的$3 \times 3$占有形式和中心方格的后继状态联系在一起。如果中心底层位置的状态从来没有和演化相关，那么对于它的因果效应就应该没有任何可以争议的地方。
+首先指出，一般而言，在这个世界中的演化规则似乎把完备的$3 \times 3$占有形式和 中心方格的后继状态联系在一起。如果中心底层位置的状态从来没有和演化相关，那么对于它的因果效应就应该没有任何可以争议的地方。想象图10的情形，C总是伴随着被占据的中心方格，D总是伴随着空的中心方格。
+
+
+
+![](/post/2018-10-03-2018-10-1_files/2.png){width=400px}
+
+512个转换规则的完备集合是如此错综多样，以至于除了把这512个规则分别一一说明之外不存在一个更为紧致有效表达它们的方式。试图把形式A和形式B捆绑为一条规则并不会是的情形简单很多，因为我们将不得不说明，不管是暗含地还是确切地说明，在这个情形中，底层中心方格的状态无需确定，尽管在其他情形中它是需要确定的。
+
+“But whether the transition from the B pattern counts as an alternative mechanism or as an instance of the same mechanism as the transition from the A pattern depends on what the laws are that govern the situation. Both transitions could be **instances of the operation of the same law**, or **instances of two distinct laws**, and our causal judgements depend on which we take to be the case.”
 
 上述例子是为了说明，我们对于相关的反事实没有任何异议，但是对于因果的判断却有合理的争议。
 
 ## 四. 自然律的作用
 
-至少要给出这些反事实论断和因果论断的真值条件是如何进行的。
+如果我们是通过诉诸自然律分别在反事实和因果论断的真值条件中的作用来解释两者之间的广泛联系，那么我们至少必须要给出这些反事实论断和因果论断的真值条件是如何进行的梗概。
 
 1. **反事实的论断**：如何进行的过程非常显然。如果我设想这个世界被牛顿力学定律或者生命游戏的规则所决定，那么某些条件句就非常容易判定：
 
 
 2. **因果论断**：
 
+“I do not think that there is any uniform way that laws enter into the truth conditions for causal claims, as there is a fairly uniform way they enter into the truth conditions for counterfactuals.”
+
+如果没有惯性定律，P的突然运动为何需要一个原因就不清楚了。
+
+
     + 讨论了粒子相撞的粒子
     
-我们称定律是拟-牛顿定律（**quasi-Newtonian laws**），如果一方面，惯性定律描述了当没有任何东西作用于它们，这些实体将如何行为，另一方面，有偏离定律，确切说明了，在什么条件下，以何种方式，行为将会偏离它的惯性行为。
+我们称定律是拟-牛顿定律（**quasi-Newtonian laws**），如果一方面，惯性定律（inertial laws）描述了当没有任何东西作用于它们，这些实体将如何行为，另一方面，存在偏离定律（laws of deviation），确切说明了，在什么条件下，以何种方式，行为将会偏离它的惯性行为。
 
 
-定律不需要是拟-牛顿定律。在基础的层面上，生命游戏定律就不是拟-牛顿定律。但这当然并不意味着生命游戏没有原因。存在原因和结果，但是在基础的层面上，我们设想它们的方式和我们在拟-牛顿定律的背景中设想原因的方式是不同的。
+* 定律不需要是拟-牛顿定律。在基础的层面上，生命游戏定律就不是拟-牛顿定律。但这当然并不意味着生命游戏没有原因。存在原因和结果，但是在基础的层面上，我们设想它们的方式和我们在拟-牛顿定律的背景中设想原因的方式是不同的。
 
-“our natural desire is to think of the world in quasi‐Newtonian terms, in terms of inertial behavior (or ‘natural’ behavior) and deviations from inertial behavior: in terms of, to use a concept from mathematical physics, perturbation theory.” （p.15）
+但我认为我们只有在当情形需要的时候我们才回过头来求助于这样的因果概念。“our natural desire is to think of the world in quasi‐Newtonian terms, in terms of inertial behavior (or ‘natural’ behavior) and deviations from inertial behavior: in terms of, to use a concept from mathematical physics, perturbation theory.” （p.15）
+
+主要还是因为使用这些概念便捷于思考，能在不充分数据的基础上做近似地预测。
+
+
 
 
 ## 五. 因果和在特定科学中的宏观分类
 
 
-1. 自然律的实在论者
+1. 自然律的实在论者：存在自然律，他们的存在不是人类实践的结果。
 
-2. 自然律的原始主义者
+2. 自然律的原始主义者：
 
-3. 自然律的物理主义者
+3. 自然律的物理主义者：唯一客观的初始自然律是物理学定律。
 
-但是我们并不是通过思考物理定律来理解我们确实理解的大量东西。比如我理解很多我现在使用的电脑是如何工作的，但是很少这些理解是得自机器物理的细节知识。而是这样的，我是通过某种类律的推广来思考它而理解它的运转的。
+但是我们并不是通过思考物理定律来理解我们确实理解的大量东西。比如我理解很多我现在使用的电脑是如何工作的，但是很少这些理解是得自对机器物理的细节知识。而是通过某种类律的推广（lawlike generalization）来思考它而理解它的运转的。
 
 正是通过这种推广，我们理解了如何去使用电脑，预测它如何起作用，向别人解释它。并且无疑这种推广，尽管在某些方面是类律的，并不在任何形而上学有趣的意义上是一个定律。
 
 “The lawlikeness of the macro‐ generalizations, insofar as they are lawlike, is parasitic on the laws of physics in a way that the laws of physics are not parasitic on anything.”
 
-点就在于，这就是特定科学如何运作的：“they seek to impose a taxonomy on the physical structure of the world  in such a way that the objects as categorized by the taxonomy  fairly reliably obey some lawlike generalizations which can be stated in terms of the taxonomy.
-它们试图给世界的物理结构加诸一种分类学，以这种方式，被分类学所分类的对象相当可信赖地遵守着某些可以通过分类学而得到表达的类律的推广”，关于电脑如何工作的推广显然就是这一类。
+点就在于，这就是特定科学(the speical science) ^[Special sciences are those sciences other than fundamental physics, that are presumed to be reducible to fundamental physics, at least in principle. In this view, chemistry, biology, and neuroscience—indeed, all sciences except fundamental physics—are special sciences.]如何运作的：“they seek to impose a taxonomy on the physical structure of the world  in such a way that the objects as categorized by the taxonomy  fairly reliably obey some lawlike generalizations which can be stated in terms of the taxonomy.（它们试图以这样一种方式给世界的物理结构加诸一种分类学，使得被分类学所分类的对象相当可信赖地遵守着 **某些可以通过分类学而得到表达的类律的推广**”）。关于电脑如何工作的推广显然就是这一类。
 
-根据某些节点划分自然（**carving nature at the joints**）：“finding a macrotaxonomy such that there are reasonably reliable and informative and extensive lawlike generalizations which can be stated in terms of the taxonomy”。
+根据某些节点划分自然（**carving nature at the joints** ^[这段话取自Plato's Phaedrus]）：“finding a macrotaxonomy such that there are reasonably reliable and informative and extensive lawlike generalizations which can be stated in terms of the taxonomy”（发现一个宏观分类，使得存在合理可靠、内容丰富、辐射面广且可以通过这个分类学得到表达的类律推广）。
 
->这里有几个概念把我搞晕了：taxonomy, speical sciences, quasi-Newtonian, lawlike generalizations。似乎是这样一个顺序：different taxonomies $\to$ different lawlike generalizations $\to$ different causal judgement.
+“We have already seen that certain forms of laws, namely **quasi‐Newtonian laws**, allow the identification of causes to be particularly simple and straightforward. So insofar as the special sciences seek to use causal locutions, it will be a further desideratum that the **lawlike generalizations** posited by the sciences be **quasi‐ Newtonian**.”
+
+
+
+
+
+>注意这里把“类律推广”和“拟-牛顿”两个概念结合在一起。
 
 
 
 例子：通过拟-牛顿概念来理解电脑，通过拟-牛顿概念来理解 human biology，我们以拟-牛顿的形式来考虑神经元的运行。
 
-特定科学不是根本的一个很大优势在于：这为构建被拟-牛顿扩展所很好描述的宏观分类学提供了自由度。同时它也提供了划分节点的自由度：我们可以转移边界以便确定遵循更为稳健推广的系统。
+特定科学不是基础的一个很大优势在于，它为构建被拟-牛顿推广所很好描述的宏观分类学提供了**自由度**。比如我们可以通过要求如果惯性状态改变要发现一个干扰要素来确保拟-牛顿的惯性定律的可靠性。
+同时它也提供了划分节点的**自由度**：我们可以移动边界（shift boundaries）以便确定遵循更为稳健推广的系统。这类边界的移动有助于解释某些情形中的因果直觉。
 
-我伸手接一个球，沿着球运动的方向后面是一堵水泥墙，墙的后面是窗户。
-大部分人不认为我伸手接住球是球未能撞击的原因，理由就是反事实条件句为假：“如果我没有接球，球会撞击到玻璃”为假。但是如果我们把墙换成一个100% 可靠的接球手，尽管这一次反事实依然为假，但是大部分人会认为认为我伸手接住球是球未能撞击的原因。
+> 我伸手接一个板球，沿着球运动的方向，后面是一堵水泥墙，墙的后面是窗户。我的行为阻止了球撞击窗户吗？大部分人不认为我伸手接住球是球未能撞击窗户的原因，理由就是反事实条件句为假：“如果我没有接球，球会撞击到玻璃”为假。但是如果我们把墙换成一个100% 可靠的接球手，尽管这一次反事实依然为假，但是大部分人会认为认为我伸手接住球是球未能撞击的原因。如果我们是通过反事实来判定因果，我们的直觉在两个情形中应该是一样的，但它们却不一样。
 
 为什么会有这种差别？
 
-我们**carve the situation up into systems**的不同所导致的。
+我们**carve the situation up into systems**的不同，导致了我们把什么算作一个惯性行为，什么算作一个威胁就不同。
 
-1. 如果我们考虑寻常的玻璃自身，它的惯性行为就是保持不破。被称为“威胁”的那类事物就是有充分的质量，硬度和速度的对象。
+1. 如果我们考虑寻常的玻璃自身，它的惯性行为就是保持不破。被称为“威胁（threats）”的那类事物就是有充分的质量，硬度和速度的对象：一个急速运动的石头就是一个威胁，但是一个被抛起的棉花糖就不是一个威胁。
 
-2. 称玻璃+水泥墙的系统为“被保护的窗户（protexted window）”。在被保护的窗户系统中，窗户的惯性状态是保持不破，“威胁”就是那些能够穿透墙的东西。
+墙或者第二个接球手并未出现在这个分析之中。
+
+2. 称玻璃+水泥墙的系统为“被保护的窗户（protexted window）”。在被保护的窗户系统中，窗户的惯性状态是保持不破，“威胁”就是那些能够穿透墙进而影响到玻璃的东西。
+
+“carving up the world differently can give different (special science) laws, governing different systems, but it should not give different truth values to counterfactuals.”
+
+3. 窗户+两个接球手的粒子。更自然的倾向是把两个接球手看成是同等自主的系统：把窗户和接球手看成是单个系统的方式来划分情形将是非常奇怪的。所以我们对于这个情形的直觉和墙的情形的直觉是不同的，即使对应的反事实是相同的。
+
+最后一个问题：为什么一般人都是这么来分类：球，接球手，泥墙+窗户，而不是这么来分类：球，接球手+水泥墙，窗户？
+
+“why typical subjects would have the tendency to regard the situation as containing a protected window, rather than in terms of a regular window, a threatening ball, and a pair of potential (p.164) neutralizers. ”
 
 
 ## 六. Remote Causation
