@@ -25,7 +25,7 @@ linktitle = "Example Page"
 
 ## Tip 1
 
-1. 如果是Mac电脑，安装Latex的[**网址**](http://www.tug.org/mactex/)；
+1. 如果是Mac电脑，安装Latex的[**网址**](http://www.tug.org/mactex/)，一个非常精彩的介绍 [latex](/pdf/latex notes.pdf)中文书，非常难得。
 
 2. 安装Rstudio的[**网址**](https://www.rstudio.com/products/rstudio/download/#download)；
 
