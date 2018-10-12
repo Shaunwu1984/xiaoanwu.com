@@ -1,0 +1,22 @@
+---
+title: Logics for Epistemic programs
+author: 吴小安
+date: '2018-10-10'
+slug: logics-for-epistemic-programs
+categories: []
+tags: []
+header:
+  caption: ''
+  image: ''
+---
+
+这篇文章是Johan将要和我们讨论的第一篇文章，我将这篇文章的摘要先翻译出来再说....
+
+“我们构建逻辑的语言使得我们能够表达在多个行动者的情境之下，影响行动者信息状态的一系列可能的改变类型。我们通过定义“epistemic program”的概念来形式化这些改变。语言是两个类型的集合不仅包括 sentences 也包括 actions 或者 programs。这和动态逻辑一样，但我们的语言确然不比动态逻辑要复杂很多。但是语义更复杂一些。一般而言，一个epistemic program 的语义是我们称为 program model 的东西。这是克里普克式的“行动”模型，表达的是行动者对当前行动的不确定性，同样地，克里普克式的“状态”模型通常在认知逻辑中使用，表达的是行动者对于系统当前状态的不确定性。program models 产生影响行动者信息的改变，这个我们表达为状态模型的改变，称之为 epistemic updates. 形式上，一个 update 包含有两个操作 (operation) ，第一个称为 update map，它使得每一个状态模型到另一个状态模型，称为 updated model； 第二个对每一个输入状态模型，给模型的状态和更新模型的状态之间一个转移关系(transition relation)。
+
+每一个认知行动的变化，比如公开宣告(public announcements) 或者 对群体的完全私人的宣告 （completely private announcements to groups）， 给予了我们称为 action signature 的东西，然后每一个action signature的族给了一个逻辑的语言。构建这些语言是这篇文章的主要工作。我们也会提及 capture 我们逻辑有效句的系统。但完备性定理的证明是下一篇文章的工作。
+
+在语义中所使用的基本操作被称为 update product. 关于它的一个版本在 Baltag et al.(1998) 中被引入，这里呈现的是它的一个更新版。the update product 通常从对应着 epistemic update 的任何 program model 中获取，因而允许我们计算信息的改变或者信念的改变。这一点有独立于我们逻辑语言的好处。我们在整个这篇文章中都会举很多的例子来说明 update product 和我们的逻辑语言。”
+
+
+
