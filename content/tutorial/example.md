@@ -31,6 +31,16 @@ linktitle = "Example Page"
 
 3. 安装Git for Mac的[**网址**](https://git-scm.com/download/mac)；
 
+4. Blogdown教程视频：
+
+```{r, eval=TRUE}
+blogdown::shortcode("youtube", "CjTLN-FXiFA")
+```
+
+5. [调整图片的一个网页，貌似很有用的样子](http://html5doctor.com/the-figure-figcaption-elements/)
+
+
+
 ## Tip 2
 
 ...
