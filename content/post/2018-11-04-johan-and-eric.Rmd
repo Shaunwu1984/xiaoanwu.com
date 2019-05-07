@@ -1,5 +1,5 @@
 ---
-title: “京八拉” —— Johan and Eric
+title: “京八拉” —— Johan and Eric (2018.11.4)
 author: ''
 date: '2018-11-04'
 slug: johan-and-eric
